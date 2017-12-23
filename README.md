@@ -1,1 +1,1 @@
-# Rmethods
+# R methodologies
